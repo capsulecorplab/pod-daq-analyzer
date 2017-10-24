@@ -9,7 +9,7 @@ combination of Python and NumPy-based visualization such as Bokeh.
 
 Example csv files included as 004.csv and 005.csv
 
-# Dependencies
+## Dependencies
 
 Following modules are imported using python3:
 
@@ -18,7 +18,7 @@ Following modules are imported using python3:
 * bokeh
 * itertools
 
-# Setup (linux)
+## Setup (linux)
 
 Install dependencies:
 
@@ -28,6 +28,6 @@ Change file permission to executable:
 
     $ chmod +x readDAQcsv.py
 
-# Run DAQ parser (example)
+## Run DAQ parser (example)
 
     $ ./readDAQcsv.py 004.csv 005.csv
