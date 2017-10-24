@@ -13,10 +13,10 @@ Example csv files included as 004.csv and 005.csv
 
 Following modules are imported using python3:
 
-*sys
-*pandas
-*bokeh
-*itertools
+* sys
+* pandas
+* bokeh
+* itertools
 
 # Setup (linux)
 
